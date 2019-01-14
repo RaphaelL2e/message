@@ -19,7 +19,7 @@ spring:
   profiles: dev
 
   datasource:
-    url: jdbc:mysql://localhost:3306/message
+    url: jdbc:mysql://127.0.0.1:3306/message
     username: root
     password: leeyf100%
     driver-class-name: com.mysql.cj.jdbc.Driver
